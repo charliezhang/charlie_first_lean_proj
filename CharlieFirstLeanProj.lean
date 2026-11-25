@@ -1,3 +1,4 @@
 import CharlieFirstLeanProj.Basic
 import CharlieFirstLeanProj.FirstProof
 import CharlieFirstLeanProj.Substitution
+import CharlieFirstLeanProj.Symbols

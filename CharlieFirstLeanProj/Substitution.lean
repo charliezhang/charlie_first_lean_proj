@@ -1,3 +1,5 @@
+module
+
 import Mathlib.Tactic
 
 theorem proof_2 {x y: ℝ} (given_fact1: y = x + 4) (given_fact2: 3 = x) : y = 7 := by
